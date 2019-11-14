@@ -16306,7 +16306,7 @@ body.site_boxed.dark,
 		margin-right: 6px;
 	}
 	.transparent_header #navigation_bar-sticky-wrapper:not(.sticky_menu) #navigation_bar {
-		background: none;
+		background: lightslategray;
 		border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 	}
 	.transparent_header.light_header #navigation_bar-sticky-wrapper:not(.sticky_menu) #navigation_bar {
