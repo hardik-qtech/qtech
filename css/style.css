@@ -5626,7 +5626,7 @@ ul.sitemap ul::after {
 	padding-left: 100px;
 }
 .icon_boxes_con.style2 .service_box .icon {
-	background: #1ccdca;
+	background: lightsalmon;
 	color: #fff;
 	display: block;
 	font-size: 32px;
@@ -5836,6 +5836,7 @@ ul.sitemap ul::after {
 	overflow: hidden;
 	position: relative;
 	width: 70px;
+	color: dimgrey;
 }
 .icon_boxes_con.style1.circle.just_icon_border.solid_icon:not(.radius5) .service_box > .icon:before,
 .icon_boxes_con.style2.solid_icon .service_box > .icon:before {
