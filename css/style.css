@@ -18135,6 +18135,7 @@ body.site_boxed.dark,
   .no-touch #cd-vertical-nav a.is-selected .cd-dot {
 	background-color: white;
   }
+  
   .no-touch #cd-vertical-nav .cd-dot {
 	position: relative;
 	/* we set a top value in order to align the dot with the label. If you change label's font, you may need to change this top value*/
@@ -18300,7 +18301,7 @@ body.site_boxed.dark,
 	}
   }
 
-
+  
 
   
   
