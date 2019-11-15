@@ -2026,16 +2026,16 @@ h2.title2 span {
 .description2,
 .description3 {
 	display: block;
-	font-size: 18px;
-	font-weight: 300;
-	line-height: 34px;
+	font-size: 14px !important;
+	font-weight: 500;
+	line-height: 28px;
 	margin: 15px 0 30px;
 }
 .description2,
 .description3 {
-	background: #f9fafc;
+	color: ghostwhite;
 	border-top: 1px solid #1ccdca;
-	padding: 10px;
+	padding: 5px;
 	position: relative;
 }
 .description4 {
